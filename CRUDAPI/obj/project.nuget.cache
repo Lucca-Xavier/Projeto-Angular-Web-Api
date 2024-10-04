@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Kl/VyD4XX7k=",
+  "dgSpecHash": "KvI0b7Q0Ie8=",
   "success": true,
-  "projectFilePath": "C:\\Users\\PCGerenciar\\Desktop\\CRUDAngularWebApi\\crudApi\\CRUDAPI.csproj",
+  "projectFilePath": "C:\\Users\\PCGerenciar\\Desktop\\CRUDAngularWebApi\\CRUDAPI\\CRUDAPI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\PCGerenciar\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\PCGerenciar\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",

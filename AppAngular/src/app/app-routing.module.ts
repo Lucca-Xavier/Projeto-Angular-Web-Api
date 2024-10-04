@@ -1,9 +1,11 @@
 import { NgModule } from '@angular/core';
 import { RouterModule, Routes } from '@angular/router';
+import { PessoasComponent } from './components/pessoas/pessoas.component';
+import { TestComponent } from './components/test/test.component';
 
 const routes: Routes = [
-  { path: '', redirectTo: '/pessoas', pathMatch: 'full' }, // Rota padrão
-  { path: '**', redirectTo: '/pessoas' } // Rota para casos não encontrados (404)
+  { path: '', component: PessoasComponent },
+  { path: 'test', component: TestComponent }
 ];
 
 @NgModule({
